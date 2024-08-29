@@ -1,0 +1,6 @@
+framework module Pods_BMComposition {
+  umbrella header "Pods-BMComposition-umbrella.h"
+
+  export *
+  module * { export * }
+}
